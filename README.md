@@ -18,4 +18,4 @@
 
 # 影视
 
-[人人影视资源列表](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist）
+[人人影视资源列表](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist)
