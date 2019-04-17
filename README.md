@@ -12,3 +12,10 @@
 [上海交通大学课程攻略共享计划 ](https://github.com/CoolPhilChen/SJTU-Courses/)
 
 [清华大学课程攻略共享计划](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+
+
+
+
+# 影视
+
+[人人影视资源列表](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist）
