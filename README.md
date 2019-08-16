@@ -39,8 +39,18 @@ https://yunpan.360.cn/surl_ymsGF6zWGcP （提取码：805b）
 https://cloud.189.cn/t/NFBz6bjyyiae（访问码：5829）
 http://own-cloud.cn/s/7c46sizp   密码：ywpdqy
 
+# 奶牛快传上传的好用工具，你们试试下载速度咋样
+https://c-t.work/s/171eaae5822f4b
+
+
 # 前端H5
 https://foreverz133.github.io/demos/
+
+
+# 基于深度学习的代码补全工具，号称支持所有语言。
+https://tabnine.com/
+
+
 
 
 
