@@ -1,7 +1,10 @@
-# data-sharing
+# data-sharing 
 
 
-# 大学学习资料收集
+
+# 学习
+
+## 大学学习资料收集
 
 [北京大学课程攻略共享计划](https://lib-pku.github.io)
 
@@ -14,6 +17,15 @@
 [清华大学课程攻略共享计划](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
 
+## 前端H5
+https://foreverz133.github.io/demos/
+
+
+## 基于深度学习的代码补全工具，号称支持所有语言。
+https://tabnine.com/
+
+## 算法
+ [MisterBooo/LeetCodeAnimation: 用动画的形式呈现解LeetCode题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
 
 
 # 影视
@@ -21,7 +33,7 @@
 [人人影视资源列表](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist)
 
 
-# 工具
+# 下载工具
 ## 百度云安卓破解版
 1.尊享SVIP下载加速，是否自慰自测
 2.去除视频15秒加载广告，秒播
@@ -39,18 +51,15 @@ https://yunpan.360.cn/surl_ymsGF6zWGcP （提取码：805b）
 https://cloud.189.cn/t/NFBz6bjyyiae（访问码：5829）
 http://own-cloud.cn/s/7c46sizp   密码：ywpdqy
 
-# 快传 工具 分享
+## 快传 工具 分享
  1. 奶牛
   https://cowtransfer.com
  2. 火狐
  https://send.firefox.com/
 
-# 前端H5
-https://foreverz133.github.io/demos/
+## you-get下载器 (开发语言: Python)
 
-
-# 基于深度学习的代码补全工具，号称支持所有语言。
-https://tabnine.com/
+[soimort/you-get: 傻瓜式网络抓取下载器](https://github.com/soimort/you-get)
 
 
 
