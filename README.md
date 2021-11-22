@@ -62,7 +62,15 @@ http://own-cloud.cn/s/7c46sizp   密码：ywpdqy
 [soimort/you-get: 傻瓜式网络抓取下载器](https://github.com/soimort/you-get)
 
 
+## Persepolis 下载器 支持Mac OSX、Windows和Linux
 
+[Persepolis地址](https://github.com/persepolisdm/persepolis)
+
+
+## Motrix 下载器 
+Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链等资源。
+
+[Motrix地址](https://github.com/agalwood/Motrix)
 
 
 
