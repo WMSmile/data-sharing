@@ -73,7 +73,8 @@ Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链
 [Motrix地址](https://github.com/agalwood/Motrix)
 
 
-
+## 常用 RSS 源列表
+https://plink.anyfeeder.com/
 
 
 
