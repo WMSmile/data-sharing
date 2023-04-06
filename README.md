@@ -84,3 +84,16 @@ https://plink.anyfeeder.com/
 [aurora 个人博客项目springboot + vue 前后端分离项目](https://github.com/linhaojun857/aurora.git)
 
 
+
+## chatgpt 能用地址，不定时更新
+
+https://github.com/weekend-project-space/chatgpt-sites
+
+https://github.com/lzwme/chatgpt-sites
+
+
+https://chat.binjie.site:7777/
+
+
+
+
