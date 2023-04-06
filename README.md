@@ -94,6 +94,13 @@ https://github.com/lzwme/chatgpt-sites
 
 https://chat.binjie.site:7777/
 
+https://github.com/akl7777777/free-chatgpt-client-pub
+
+
+## surge 教程
+
+https://github.com/getsomecat/GetSomeCats
+
 
 
 
