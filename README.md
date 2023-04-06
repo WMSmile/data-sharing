@@ -96,6 +96,10 @@ https://chat.binjie.site:7777/
 
 https://github.com/akl7777777/free-chatgpt-client-pub
 
+用 Express 和 Vue3 搭建的 ChatGPT 演示网页
+https://github.com/Chanzhaoyu/chatgpt-web
+
+
 
 ## surge 教程
 
