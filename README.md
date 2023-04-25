@@ -96,6 +96,11 @@ https://chat.binjie.site:7777/
 
 https://github.com/akl7777777/free-chatgpt-client-pub
 
+https://chatplus.dev/
+
+https://chatbot.theb.ai/
+
+
 用 Express 和 Vue3 搭建的 ChatGPT 演示网页
 https://github.com/Chanzhaoyu/chatgpt-web
 
