@@ -107,6 +107,8 @@ https://github.com/Chanzhaoyu/chatgpt-web
 ## ai作画
 https://github.com/d3vilh/stable-diffusion-howto
 
+https://stablediffusionweb.com/#demo
+
 ## surge 教程
 
 https://github.com/getsomecat/GetSomeCats
