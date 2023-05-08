@@ -100,7 +100,7 @@ https://chatplus.dev/
 
 https://chatbot.theb.ai/
 
-http://s.suolj.com/
+http://s.suolj.com/  收费的
 
 
 用 Express 和 Vue3 搭建的 ChatGPT 演示网页
