@@ -100,6 +100,8 @@ https://chatplus.dev/
 
 https://chatbot.theb.ai/
 
+http://s.suolj.com/
+
 
 用 Express 和 Vue3 搭建的 ChatGPT 演示网页
 https://github.com/Chanzhaoyu/chatgpt-web
