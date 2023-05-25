@@ -13,5 +13,5 @@ https://github.com/cgcym1234/YYVPN  mac端抓包
 
 
 
-[https://github.com/cgcym1234/YYVPN  ](https://github.com/zlyBear/BearFree) 
+[BearFree](https://github.com/zlyBear/BearFree) 
  
