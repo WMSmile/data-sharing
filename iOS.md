@@ -25,3 +25,8 @@ https://github.com/cgcym1234/YYVPN  mac端抓包
 
 finally, I fix it. Lower your Extension target "Build Settings" -> "iOS Deployment Target"->such as: iOS 9.0
 可能是network extension的版本过高,你们把它调低一点...😄
+
+### debug 调试
+使用os_log import os.log
+xcode > debug > attach to process by pid or name (display name)
+控制台查看，选中进程显示即可。
