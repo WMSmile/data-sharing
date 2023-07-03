@@ -108,6 +108,14 @@ https://1chat.cc
 用 Express 和 Vue3 搭建的 ChatGPT 演示网页
 https://github.com/Chanzhaoyu/chatgpt-web
 
+### chatgpt 必应谷歌插件
+
+https://chrome.google.com/webstore/detail/chrome-unlock-new-bing-ai/nglhdhdfndbadmaiieikpefenkbgpdbf/related?hl=zh-CN
+
+https://github.com/haozi/New-Bing-Anywhere
+
+
+
 ## ai作画
 https://github.com/d3vilh/stable-diffusion-howto
 
