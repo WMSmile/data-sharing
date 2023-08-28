@@ -96,13 +96,15 @@ https://chat.binjie.site:7777/
 
 https://github.com/akl7777777/free-chatgpt-client-pub
 
-https://chatplus.dev/
+https://chatplus.dev/ 10点到3点能用
 
 https://chatbot.theb.ai/
 
-http://s.suolj.com/  收费的
-
 https://1chat.cc
+
+https://chatp.free2gpt.xyz/
+
+
 
 
 用 Express 和 Vue3 搭建的 ChatGPT 演示网页
