@@ -93,16 +93,16 @@ https://github.com/lzwme/chatgpt-sites
 
 
 https://chat.binjie.site:7777/
+永久免费用于学习和测试，支持上下文，支持开启关闭联网模式，支持保存会话，切勿发布至国内平台或微信分享!!!
+cloudflare托管镜像(1-9全被墙了)现在可以访问: https://chat11.yqcloud.top 或者chat12.yqcloud.top 一直到chat19
+可以访问境内镜像： https://chat1.binjie.site:7777 或者chat2,chat3,一直到9
+
+
 
 https://github.com/akl7777777/free-chatgpt-client-pub
 
 https://chatplus.dev/ 10点到3点能用
 
-https://chatbot.theb.ai/
-
-https://1chat.cc
-
-https://chatp.free2gpt.xyz/
 
 
 
