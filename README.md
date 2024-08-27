@@ -127,6 +127,14 @@ https://stablediffusionweb.com/#demo
 
 https://github.com/getsomecat/GetSomeCats
 
+## ai 解密工具
+
+https://github.com/Ciphey/Ciphey
+
+
+
+
+
 
 
 
