@@ -132,7 +132,9 @@ https://github.com/getsomecat/GetSomeCats
 https://github.com/Ciphey/Ciphey
 
 
+## 微信相关
 
+https://github.com/hao-ji-xing/cc-weixin/blob/main/weixin-bot-api.md
 
 
 
